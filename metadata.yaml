@@ -1,0 +1,38 @@
+_repo: A-francia-irodalom-foiranyai_67993
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Schöpflin, Aladár
+    alias: Schopflin, Aladar
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '53082'
+    url: http://www.gutenberg.org/2009/agents/53082
+    wikipedia: https://hu.wikipedia.org/wiki/Sch%C3%B6pflin_Alad%C3%A1r
+creator:
+  author:
+    agent_name: Strachey, Lytton
+    alias: Strachey, Giles Lytton
+    birthdate: 1880
+    deathdate: 1932
+    gutenberg_agent_id: '576'
+    url: http://www.gutenberg.org/2009/agents/576
+    wikipedia: https://en.wikipedia.org/wiki/Lytton_Strachey
+description: ''
+gutenberg_issued: '2022-05-05'
+identifiers:
+  gutenberg: '67993'
+language: hu
+pgterms:marc905: 20220502035354strachey
+pgterms:marc906: '1914'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: Hungary :Franklin,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A francia irodalom főirányai
+url: http://www.gutenberg.org/ebooks/67993
